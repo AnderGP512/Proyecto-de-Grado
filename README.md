@@ -1,6 +1,6 @@
-# Monografía: Valor del Cliente con Inteligencia de Datos (CLV) – Caso Sura Movilidad
+# Valor del Cliente con Inteligencia de Datos (CLV) – Caso Sura Movilidad
 
-## 🎓 Proyecto de grado – Especialización en Analítica y Ciencia de Datos  
+## Proyecto de grado – Especialización en Analítica y Ciencia de Datos  
 **Universidad de Antioquia | Facultad de Ingeniería**  
 Autores: Erik Estiven Arias Paniagua · Anderson Guisao Padrón  
 Año: 2025  
@@ -13,14 +13,14 @@ Este trabajo propone un modelo predictivo de Customer Lifetime Value (CLV) para 
 
 ---
 
-## structura del repositorio
+## Estructura del repositorio
 
 ```bash
 .
 ├── data/                      # Dataset anonimizado (no disponible públicamente)
 ├── notebooks/                # Notebooks de análisis exploratorio y modelado
 ├── src/                      # Código fuente de funciones reutilizables
-├── models/                   # Archivos de modelos entrenados (opcional)
+├── models/                   # Archivos de modelos entrenados
 ├── results/                  # Figuras, tablas y métricas obtenidas
 ├── ME03-G10-Monografia.pdf   # Documento completo del trabajo
 └── README.md                 # Este archivo
