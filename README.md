@@ -9,7 +9,7 @@ Año: 2025
 
 ## Descripción del proyecto
 
-Este trabajo propone un modelo predictivo de Customer Lifetime Value (CLV) para el canal digital de Sura, enfocado en el segmento de movilidad (autos y motos). La metodología integra técnicas de analítica de datos, limpieza profunda, ingeniería de variables, y modelos de aprendizaje supervisado para identificar clientes de alto valor y optimizar decisiones de adquisición y fidelización.
+Este trabajo propone un modelo predictivo de Customer Lifetime Value (CLV) para el canal digital de una compañia de seguros, enfocado en el segmento de movilidad (autos y motos). La metodología integra técnicas de analítica de datos, limpieza profunda, ingeniería de variables, y modelos de aprendizaje supervisado para identificar clientes de alto valor y optimizar decisiones de adquisición y fidelización.
 
 ---
 
