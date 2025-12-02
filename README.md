@@ -1,4 +1,4 @@
-**Proyecto de Grado — Predicción del Customer Lifetime Value (CLV)**
+**Predicción del Customer Lifetime Value (CLV)**
 **Especialización en Analítica y Ciencia de Datos — Universidad de Antioquia**
 **Autores:** Erik Estiven Arias Paniagua, Anderson Guisao Padrón
 Año: 2025
