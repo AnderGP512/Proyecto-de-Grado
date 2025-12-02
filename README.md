@@ -27,7 +27,11 @@ Identificación de clientes de alto valor
 Proyecto-de-Grado/
 │
 ├── Data_Analisis_Movilidad_U2Y.csv                   # Dataset anoninimizado (22.904 registros)
+
 ├── Valor del Cliente con Inteligencia de Datos.ipynb # Notebook completo del análisis y modelado
+
 ├── Valor del Cliente con Inteligencia de Datos.docx  # Documento formal del trabajo de grado
+
 └── README.md                                         # Este archivo
+
 
