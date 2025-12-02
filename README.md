@@ -30,4 +30,4 @@ Identificación de clientes de alto valor
 
 ├── Valor del Cliente con Inteligencia de Datos.docx  # Documento formal del trabajo de grado
 
-└── README.md                                         # Este archivo
+├──  README.md                                         # Este archivo
