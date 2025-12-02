@@ -6,7 +6,7 @@
 
 Año: 2025
 
-**Descripción General**
+**Descripción**
 Este proyecto desarrolla un modelo predictivo para estimar el Customer Lifetime Value (CLV) de los clientes del canal digital en el segmento de movilidad de una compañía de seguros en Colombia.
 Se evaluaron varios modelos de Machine Learning y el Gradient Boosting Regressor fue seleccionado como el mejor, alcanzando:
 
